@@ -1,22 +1,12 @@
-# Personal Portfolio - React 
+### Personal Portfolio Website
+![my-portfolio](https://github.com/JitendraVarma11/CSEdge-Web-Development-Internship/assets/143241523/1190f7a7-27cd-4db9-ba1b-e5b4627c8390)
 
-This is a personal portfolio website created using React.js, focusing on animation and responsiveness to showcase my skills, projects, and experience.
 
 ## Features
-
-- Animated Design: Utilizes CSS animations and transitions to create visually appealing effects throughout the website.
-- Responsive Layout: Ensures that the portfolio looks great and functions well on various devices and screen sizes.
-- Project Showcase: Provides a section to display featured projects with descriptions and links to their respective repositories or live demos.
-- Skills Section: Highlights my skills and proficiencies in various technologies or tools.
-- Contact Form: Allows visitors to reach out to me directly through a contact form.
-
-## Technologies Used
-
-- React.js
-- CSS3
-- othr libraries
-
-## Visit Portfolio
-
-[jitendra varma's portfolio](https://jitendra-varma.vercel.app/)
-
+- Adaptive Layout: Responsive design to ensure optimal viewing on all devices.
+- Main Pane: A prominent introduction section.
+- Biography Division: Detailed section about personal background and skills.
+- Ventures Exhibition: Showcase of projects and initiatives.
+- Connection Method: Contact form and details for getting in touch.
+- Cohesive Flow: Seamless transitions between sections.
+- Validated Form Handling: Proper validation for the contact form.
