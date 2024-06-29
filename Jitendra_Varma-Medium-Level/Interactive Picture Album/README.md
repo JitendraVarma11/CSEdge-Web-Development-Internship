@@ -1,7 +1,7 @@
 
 # Interactive Picture Album
 
-![interactiveAlbum](https://github.com/JitendraVarma11/CSEdge-Web-Development-Internship-1/assets/143241523/3bdb1150-eb69-4600-9e87-c3e648b669a2)
+![interactiveAlbum](https://github.com/JitendraVarma11/CSEdge-Web-Development-Internship/assets/143241523/38af3185-cc1a-481a-98ed-aa3d69f86199)
 
 ## Features
 
