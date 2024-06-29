@@ -1,5 +1,5 @@
 # My College Website
-![ldcollege](https://github.com/JitendraVarma11/CSEdge-Web-Development-Internship-1/assets/143241523/01ab7ecc-f86e-4b8b-8387-760b41cf1f39)
+![ldcollege](https://github.com/JitendraVarma11/CSEdge-Web-Development-Internship/assets/143241523/8a94918a-b720-4521-b8af-036b0fbb0faa)
 
 ## Features
 
